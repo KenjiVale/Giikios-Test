@@ -1,7 +1,6 @@
-import { StyleSheet, Text, View, Image } from 'react-native'
+import { Text, View, Image } from 'react-native'
 import React from 'react'
-import { Header } from 'react-native-elements';
-import LinearGradient from 'react-native-linear-gradient';
+
 import styles from '../styles/home.style';
 import Lists from './../../../components/Lists';
 import data from '../data/data.json'
